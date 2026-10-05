@@ -1,0 +1,6 @@
+{
+  "name": "KAGAMI",
+  "description": "Premium anime-inspired digital drawing, line-art extraction, and auto-sketch studio for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
